@@ -1,7 +1,7 @@
 {
   "title": "jetpack-twitchbots",
   "name": "jetpack-twitchbots",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An API wrapper for twitchbots.info for the Firefox Add-on SDK",
   "main": "index.js",
   "author": "Martin Giger (https://humanoids.be)",
@@ -25,6 +25,6 @@
     "irc"
   ],
   "dependencies": {
-    "twitchbots-base": "^1.0.0"
+    "twitchbots-base": "^1.0.1"
   }
 }
