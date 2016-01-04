@@ -20,3 +20,6 @@ twitchbots.getBot("freaktechnik").then((bot) => {
     }
 });
 ```
+
+See [twitchbots-base](https://www.npmjs.com/package/twitchbots-base) for a
+documentation of all methods available on the twitchbots object.
