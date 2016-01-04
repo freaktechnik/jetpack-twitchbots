@@ -1,5 +1,5 @@
 #jetpack-twitchbots
-An API wrapper for twitchbots.info for the Firefox Add-on SDK
+An API wrapper for [twitchbots.info](https://twitchbots.info) for the Firefox Add-on SDK.
 
 ## Installation
 Install this module into your extension by running the following command:
@@ -22,7 +22,7 @@ twitchbots.getBot("freaktechnik").then((bot) => {
 ```
 
 See [twitchbots-base](https://www.npmjs.com/package/twitchbots-base) for a
-documentation of all methods available on the twitchbots object.
+documentation of all methods available on the `twitchbots` object.
 
 ## License
 This project is licensed under the MIT License.

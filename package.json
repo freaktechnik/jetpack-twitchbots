@@ -26,5 +26,6 @@
   ],
   "dependencies": {
     "twitchbots-base": "^1.0.1"
-  }
+  },
+  "homepage": "https://github.com/freaktechnik/jetpack-twitchbots#readme"
 }
