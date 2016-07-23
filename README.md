@@ -1,4 +1,6 @@
 #jetpack-twitchbots
+[![Dependency Status](https://dependencyci.com/github/freaktechnik/jetpack-twitchbots/badge)](https://dependencyci.com/github/freaktechnik/jetpack-twitchbots)
+
 An API wrapper for [twitchbots.info](https://twitchbots.info) for the Firefox Add-on SDK.
 
 ## Installation
