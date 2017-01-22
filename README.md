@@ -1,4 +1,6 @@
 #jetpack-twitchbots
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/freaktechnik/jetpack-twitchbots.svg)](https://greenkeeper.io/)
 [![Dependency Status](https://dependencyci.com/github/freaktechnik/jetpack-twitchbots/badge)](https://dependencyci.com/github/freaktechnik/jetpack-twitchbots)
 
 An API wrapper for [twitchbots.info](https://twitchbots.info) for the Firefox Add-on SDK.
